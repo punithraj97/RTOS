@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1701433657 source:c:\users\lenovo\desktop\dsalabmainexam\labpractice\opration.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1701431846 c:\users\lenovo\desktop\dsalabmainexam\labpractice\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1701433403 source:c:\users\lenovo\desktop\dsalabmainexam\labpractice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<assert.h>
+
